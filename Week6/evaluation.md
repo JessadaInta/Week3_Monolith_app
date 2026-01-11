@@ -21,7 +21,7 @@
 - [Client–Server]
 
 ### Diagram
-[แทรกรูป Architecture Diagram]
+[<img width="741" height="521" alt="Monolith drawio" src="https://github.com/user-attachments/assets/a6e86ab4-cf19-49ea-8e93-2e1a1430876c" />]
 
 ### Pros & Cons
 **Pros:**
@@ -56,7 +56,7 @@
 - [MVC]
 
 ### Diagram
-[แทรกรูป Architecture Diagram]
+[<img width="721" height="621" alt="Layered drawio" src="https://github.com/user-attachments/assets/2e30b6f4-381a-423d-a517-ac0d8be62e20" />]
 
 ### Pros & Cons
 **Pros:**
