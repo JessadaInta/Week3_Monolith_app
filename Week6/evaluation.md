@@ -1,4 +1,4 @@
-##Architecture Comparison
+### Architecture Comparison
 
 | Criteria          | Weight   | Monolith | Layered  |
 | ----------------- | -------- | -------- | -------- |
@@ -9,8 +9,9 @@
 | Development Speed | 20%      | 4        | 3        |
 | **Total Score**   | **100%** | **3.35** | **3.45** |
 
-Decision: Layered Architecture
-Reasons:
-โครงสร้างชัดเจน แยกหน้าที่เป็นสัดส่วน
-รองรับการขยายระบบและการดูแลในระยะยาว
-เหมาะกับระบบจองห้องประชุมที่มีฟีเจอร์หลากหลาย
+### Decision: Layered Architecture
+
+### Reasons:
+- โครงสร้างชัดเจน แยกหน้าที่เป็นสัดส่วน
+- รองรับการขยายระบบและการดูแลในระยะยาว
+- เหมาะกับระบบจองห้องประชุมที่มีฟีเจอร์หลากหลาย
